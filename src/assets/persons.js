@@ -17060,5 +17060,21 @@ export const data = {
       country: "India"
     }
   }
+       ,{
+    id: uuidv4(),
+    name: "Ignatius Sani",
+    img: "https://avatars0.githubusercontent.com/u/51197882?s=460&u=a9d20fd06608c01c505d42c06a1454ecb1929b27&v=4",
+    links: {
+      website: "",
+      linkedin: "https://www.linkedin.com/in/ignatiussani",
+      github: "https://github.com/ignatius22"
+    },
+    jobTitle: "Full-stack web developer",
+    location: {
+      city: "Federal Capital City",
+      state: "Abuja",
+      country: "Nigeria"
+    }
+  }
   ]
 }
